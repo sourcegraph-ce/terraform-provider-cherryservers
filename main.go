@@ -1,11 +1,9 @@
 package main
 
 import (
-	"terraform-provider-cherryservers/cherryservers"
-
-	//"github.com/cherryservers/terraform-provider-cherryservers/cherryservers"
 	"github.com/hashicorp/terraform/plugin"
 	"github.com/hashicorp/terraform/terraform"
+	"github.com/terraform-providers/terraform-provider-cherryservers/cherryservers"
 )
 
 func main() {
