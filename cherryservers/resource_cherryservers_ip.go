@@ -2,7 +2,7 @@ package cherryservers
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 
 	"github.com/cherryservers/cherrygo"
 
